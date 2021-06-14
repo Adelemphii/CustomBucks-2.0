@@ -1,0 +1,11 @@
+main: me.adelemphii.custombucks.CustomBucks
+name: CustomBucks
+version: ${project.version}
+api-version: 1.13
+author: Adelemphii
+
+commands:
+  CustomBucks:
+    usage: "Usage: /cb <give:leaderboard:bucks:rename>"
+    aliases: cb
+    description: TBA
